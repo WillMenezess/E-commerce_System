@@ -1,0 +1,176 @@
+C:\Users\Jhulyo\source\repos\AOP2\bin\Debug\net5.0\AOP2.exe
+C:\Users\Jhulyo\source\repos\AOP2\bin\Debug\net5.0\AOP2.deps.json
+C:\Users\Jhulyo\source\repos\AOP2\bin\Debug\net5.0\AOP2.runtimeconfig.json
+C:\Users\Jhulyo\source\repos\AOP2\bin\Debug\net5.0\AOP2.runtimeconfig.dev.json
+C:\Users\Jhulyo\source\repos\AOP2\bin\Debug\net5.0\AOP2.dll
+C:\Users\Jhulyo\source\repos\AOP2\bin\Debug\net5.0\ref\AOP2.dll
+C:\Users\Jhulyo\source\repos\AOP2\bin\Debug\net5.0\AOP2.pdb
+C:\Users\Jhulyo\source\repos\AOP2\obj\Debug\net5.0\AOP2.csproj.AssemblyReference.cache
+C:\Users\Jhulyo\source\repos\AOP2\obj\Debug\net5.0\AOP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhulyo\source\repos\AOP2\obj\Debug\net5.0\AOP2.AssemblyInfoInputs.cache
+C:\Users\Jhulyo\source\repos\AOP2\obj\Debug\net5.0\AOP2.AssemblyInfo.cs
+C:\Users\Jhulyo\source\repos\AOP2\obj\Debug\net5.0\AOP2.csproj.CoreCompileInputs.cache
+C:\Users\Jhulyo\source\repos\AOP2\obj\Debug\net5.0\AOP2.dll
+C:\Users\Jhulyo\source\repos\AOP2\obj\Debug\net5.0\ref\AOP2.dll
+C:\Users\Jhulyo\source\repos\AOP2\obj\Debug\net5.0\AOP2.pdb
+C:\Users\Jhulyo\source\repos\AOP2\obj\Debug\net5.0\AOP2.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\pasta aop2\AOP2\bin\Debug\net5.0\AOP2.exe
+C:\Users\LENOVO\Desktop\pasta aop2\AOP2\bin\Debug\net5.0\AOP2.deps.json
+C:\Users\LENOVO\Desktop\pasta aop2\AOP2\bin\Debug\net5.0\AOP2.runtimeconfig.json
+C:\Users\LENOVO\Desktop\pasta aop2\AOP2\bin\Debug\net5.0\AOP2.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\pasta aop2\AOP2\bin\Debug\net5.0\AOP2.dll
+C:\Users\LENOVO\Desktop\pasta aop2\AOP2\bin\Debug\net5.0\AOP2.pdb
+C:\Users\LENOVO\Desktop\pasta aop2\AOP2\obj\Debug\net5.0\AOP2.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\pasta aop2\AOP2\obj\Debug\net5.0\AOP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\pasta aop2\AOP2\obj\Debug\net5.0\AOP2.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\pasta aop2\AOP2\obj\Debug\net5.0\AOP2.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\pasta aop2\AOP2\obj\Debug\net5.0\AOP2.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\pasta aop2\AOP2\obj\Debug\net5.0\AOP2.dll
+C:\Users\LENOVO\Desktop\pasta aop2\AOP2\obj\Debug\net5.0\refint\AOP2.dll
+C:\Users\LENOVO\Desktop\pasta aop2\AOP2\obj\Debug\net5.0\AOP2.pdb
+C:\Users\LENOVO\Desktop\pasta aop2\AOP2\obj\Debug\net5.0\AOP2.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\pasta aop2\AOP2\obj\Debug\net5.0\ref\AOP2.dll
+C:\Users\Willm\Desktop\AOP2\bin\Debug\net5.0\AOP2.exe
+C:\Users\Willm\Desktop\AOP2\bin\Debug\net5.0\AOP2.deps.json
+C:\Users\Willm\Desktop\AOP2\bin\Debug\net5.0\AOP2.runtimeconfig.json
+C:\Users\Willm\Desktop\AOP2\bin\Debug\net5.0\AOP2.runtimeconfig.dev.json
+C:\Users\Willm\Desktop\AOP2\bin\Debug\net5.0\AOP2.dll
+C:\Users\Willm\Desktop\AOP2\bin\Debug\net5.0\AOP2.pdb
+C:\Users\Willm\Desktop\AOP2\obj\Debug\net5.0\AOP2.csproj.AssemblyReference.cache
+C:\Users\Willm\Desktop\AOP2\obj\Debug\net5.0\AOP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willm\Desktop\AOP2\obj\Debug\net5.0\AOP2.AssemblyInfoInputs.cache
+C:\Users\Willm\Desktop\AOP2\obj\Debug\net5.0\AOP2.AssemblyInfo.cs
+C:\Users\Willm\Desktop\AOP2\obj\Debug\net5.0\AOP2.csproj.CoreCompileInputs.cache
+C:\Users\Willm\Desktop\AOP2\obj\Debug\net5.0\AOP2.dll
+C:\Users\Willm\Desktop\AOP2\obj\Debug\net5.0\refint\AOP2.dll
+C:\Users\Willm\Desktop\AOP2\obj\Debug\net5.0\AOP2.pdb
+C:\Users\Willm\Desktop\AOP2\obj\Debug\net5.0\AOP2.genruntimeconfig.cache
+C:\Users\Willm\Desktop\AOP2\obj\Debug\net5.0\ref\AOP2.dll
+C:\Users\Jhulyo\Desktop\MODIFICADO WILLIAM\AOP2\obj\Debug\net5.0\AOP2.csproj.AssemblyReference.cache
+C:\Users\Jhulyo\Desktop\MODIFICADO WILLIAM\AOP2\obj\Debug\net5.0\AOP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhulyo\Desktop\MODIFICADO WILLIAM\AOP2\obj\Debug\net5.0\AOP2.AssemblyInfoInputs.cache
+C:\Users\Jhulyo\Desktop\MODIFICADO WILLIAM\AOP2\obj\Debug\net5.0\AOP2.AssemblyInfo.cs
+C:\Users\Jhulyo\Desktop\MODIFICADO WILLIAM\AOP2\obj\Debug\net5.0\AOP2.csproj.CoreCompileInputs.cache
+C:\Users\Jhulyo\Desktop\MODIFICADO WILLIAM\AOP2\obj\Debug\net5.0\AOP2.dll
+C:\Users\Jhulyo\Desktop\MODIFICADO WILLIAM\AOP2\obj\Debug\net5.0\ref\AOP2.dll
+C:\Users\Jhulyo\Desktop\MODIFICADO WILLIAM\AOP2\obj\Debug\net5.0\AOP2.pdb
+C:\Users\Jhulyo\Desktop\MODIFICADO WILLIAM\AOP2\bin\Debug\net5.0\AOP2.exe
+C:\Users\Jhulyo\Desktop\MODIFICADO WILLIAM\AOP2\bin\Debug\net5.0\AOP2.deps.json
+C:\Users\Jhulyo\Desktop\MODIFICADO WILLIAM\AOP2\bin\Debug\net5.0\AOP2.runtimeconfig.json
+C:\Users\Jhulyo\Desktop\MODIFICADO WILLIAM\AOP2\bin\Debug\net5.0\AOP2.runtimeconfig.dev.json
+C:\Users\Jhulyo\Desktop\MODIFICADO WILLIAM\AOP2\bin\Debug\net5.0\AOP2.dll
+C:\Users\Jhulyo\Desktop\MODIFICADO WILLIAM\AOP2\bin\Debug\net5.0\ref\AOP2.dll
+C:\Users\Jhulyo\Desktop\MODIFICADO WILLIAM\AOP2\bin\Debug\net5.0\AOP2.pdb
+C:\Users\Jhulyo\Desktop\MODIFICADO WILLIAM\AOP2\obj\Debug\net5.0\AOP2.genruntimeconfig.cache
+C:\Users\Willm\Desktop\MODIFICADO WILLIAM\AOP2\bin\Debug\net5.0\AOP2.exe
+C:\Users\Willm\Desktop\MODIFICADO WILLIAM\AOP2\bin\Debug\net5.0\AOP2.deps.json
+C:\Users\Willm\Desktop\MODIFICADO WILLIAM\AOP2\bin\Debug\net5.0\AOP2.runtimeconfig.json
+C:\Users\Willm\Desktop\MODIFICADO WILLIAM\AOP2\bin\Debug\net5.0\AOP2.runtimeconfig.dev.json
+C:\Users\Willm\Desktop\MODIFICADO WILLIAM\AOP2\bin\Debug\net5.0\AOP2.dll
+C:\Users\Willm\Desktop\MODIFICADO WILLIAM\AOP2\bin\Debug\net5.0\AOP2.pdb
+C:\Users\Willm\Desktop\MODIFICADO WILLIAM\AOP2\obj\Debug\net5.0\AOP2.csproj.AssemblyReference.cache
+C:\Users\Willm\Desktop\MODIFICADO WILLIAM\AOP2\obj\Debug\net5.0\AOP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willm\Desktop\MODIFICADO WILLIAM\AOP2\obj\Debug\net5.0\AOP2.AssemblyInfoInputs.cache
+C:\Users\Willm\Desktop\MODIFICADO WILLIAM\AOP2\obj\Debug\net5.0\AOP2.AssemblyInfo.cs
+C:\Users\Willm\Desktop\MODIFICADO WILLIAM\AOP2\obj\Debug\net5.0\AOP2.csproj.CoreCompileInputs.cache
+C:\Users\Willm\Desktop\MODIFICADO WILLIAM\AOP2\obj\Debug\net5.0\AOP2.dll
+C:\Users\Willm\Desktop\MODIFICADO WILLIAM\AOP2\obj\Debug\net5.0\refint\AOP2.dll
+C:\Users\Willm\Desktop\MODIFICADO WILLIAM\AOP2\obj\Debug\net5.0\AOP2.pdb
+C:\Users\Willm\Desktop\MODIFICADO WILLIAM\AOP2\obj\Debug\net5.0\AOP2.genruntimeconfig.cache
+C:\Users\Willm\Desktop\MODIFICADO WILLIAM\AOP2\obj\Debug\net5.0\ref\AOP2.dll
+C:\Users\ACER\Desktop\Programas Bruna\MODIFICADO WILLIAM\AOP2\bin\Debug\net5.0\AOP2.exe
+C:\Users\ACER\Desktop\Programas Bruna\MODIFICADO WILLIAM\AOP2\bin\Debug\net5.0\AOP2.deps.json
+C:\Users\ACER\Desktop\Programas Bruna\MODIFICADO WILLIAM\AOP2\bin\Debug\net5.0\AOP2.runtimeconfig.json
+C:\Users\ACER\Desktop\Programas Bruna\MODIFICADO WILLIAM\AOP2\bin\Debug\net5.0\AOP2.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\Programas Bruna\MODIFICADO WILLIAM\AOP2\bin\Debug\net5.0\AOP2.dll
+C:\Users\ACER\Desktop\Programas Bruna\MODIFICADO WILLIAM\AOP2\bin\Debug\net5.0\AOP2.pdb
+C:\Users\ACER\Desktop\Programas Bruna\MODIFICADO WILLIAM\AOP2\obj\Debug\net5.0\AOP2.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\Programas Bruna\MODIFICADO WILLIAM\AOP2\obj\Debug\net5.0\AOP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\Programas Bruna\MODIFICADO WILLIAM\AOP2\obj\Debug\net5.0\AOP2.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Programas Bruna\MODIFICADO WILLIAM\AOP2\obj\Debug\net5.0\AOP2.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Programas Bruna\MODIFICADO WILLIAM\AOP2\obj\Debug\net5.0\AOP2.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Programas Bruna\MODIFICADO WILLIAM\AOP2\obj\Debug\net5.0\AOP2.dll
+C:\Users\ACER\Desktop\Programas Bruna\MODIFICADO WILLIAM\AOP2\obj\Debug\net5.0\refint\AOP2.dll
+C:\Users\ACER\Desktop\Programas Bruna\MODIFICADO WILLIAM\AOP2\obj\Debug\net5.0\AOP2.pdb
+C:\Users\ACER\Desktop\Programas Bruna\MODIFICADO WILLIAM\AOP2\obj\Debug\net5.0\AOP2.genruntimeconfig.cache
+C:\Users\ACER\Desktop\Programas Bruna\MODIFICADO WILLIAM\AOP2\obj\Debug\net5.0\ref\AOP2.dll
+C:\Users\Jhulyo\Desktop\AOP2 modificado bruna\AOP2\bin\Debug\net5.0\AOP2.exe
+C:\Users\Jhulyo\Desktop\AOP2 modificado bruna\AOP2\bin\Debug\net5.0\AOP2.deps.json
+C:\Users\Jhulyo\Desktop\AOP2 modificado bruna\AOP2\bin\Debug\net5.0\AOP2.runtimeconfig.json
+C:\Users\Jhulyo\Desktop\AOP2 modificado bruna\AOP2\bin\Debug\net5.0\AOP2.runtimeconfig.dev.json
+C:\Users\Jhulyo\Desktop\AOP2 modificado bruna\AOP2\bin\Debug\net5.0\AOP2.dll
+C:\Users\Jhulyo\Desktop\AOP2 modificado bruna\AOP2\bin\Debug\net5.0\ref\AOP2.dll
+C:\Users\Jhulyo\Desktop\AOP2 modificado bruna\AOP2\bin\Debug\net5.0\AOP2.pdb
+C:\Users\Jhulyo\Desktop\AOP2 modificado bruna\AOP2\obj\Debug\net5.0\AOP2.csproj.AssemblyReference.cache
+C:\Users\Jhulyo\Desktop\AOP2 modificado bruna\AOP2\obj\Debug\net5.0\AOP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhulyo\Desktop\AOP2 modificado bruna\AOP2\obj\Debug\net5.0\AOP2.AssemblyInfoInputs.cache
+C:\Users\Jhulyo\Desktop\AOP2 modificado bruna\AOP2\obj\Debug\net5.0\AOP2.AssemblyInfo.cs
+C:\Users\Jhulyo\Desktop\AOP2 modificado bruna\AOP2\obj\Debug\net5.0\AOP2.csproj.CoreCompileInputs.cache
+C:\Users\Jhulyo\Desktop\AOP2 modificado bruna\AOP2\obj\Debug\net5.0\AOP2.dll
+C:\Users\Jhulyo\Desktop\AOP2 modificado bruna\AOP2\obj\Debug\net5.0\ref\AOP2.dll
+C:\Users\Jhulyo\Desktop\AOP2 modificado bruna\AOP2\obj\Debug\net5.0\AOP2.pdb
+C:\Users\Jhulyo\Desktop\AOP2 modificado bruna\AOP2\obj\Debug\net5.0\AOP2.genruntimeconfig.cache
+C:\Users\Jhulyo\Desktop\AOP2 modificado bruna - Cópia\AOP2\bin\Debug\net5.0\AOP2.exe
+C:\Users\Jhulyo\Desktop\AOP2 modificado bruna - Cópia\AOP2\bin\Debug\net5.0\AOP2.deps.json
+C:\Users\Jhulyo\Desktop\AOP2 modificado bruna - Cópia\AOP2\bin\Debug\net5.0\AOP2.runtimeconfig.json
+C:\Users\Jhulyo\Desktop\AOP2 modificado bruna - Cópia\AOP2\bin\Debug\net5.0\AOP2.runtimeconfig.dev.json
+C:\Users\Jhulyo\Desktop\AOP2 modificado bruna - Cópia\AOP2\bin\Debug\net5.0\AOP2.dll
+C:\Users\Jhulyo\Desktop\AOP2 modificado bruna - Cópia\AOP2\bin\Debug\net5.0\ref\AOP2.dll
+C:\Users\Jhulyo\Desktop\AOP2 modificado bruna - Cópia\AOP2\bin\Debug\net5.0\AOP2.pdb
+C:\Users\Jhulyo\Desktop\AOP2 modificado bruna - Cópia\AOP2\obj\Debug\net5.0\AOP2.csproj.AssemblyReference.cache
+C:\Users\Jhulyo\Desktop\AOP2 modificado bruna - Cópia\AOP2\obj\Debug\net5.0\AOP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhulyo\Desktop\AOP2 modificado bruna - Cópia\AOP2\obj\Debug\net5.0\AOP2.AssemblyInfoInputs.cache
+C:\Users\Jhulyo\Desktop\AOP2 modificado bruna - Cópia\AOP2\obj\Debug\net5.0\AOP2.AssemblyInfo.cs
+C:\Users\Jhulyo\Desktop\AOP2 modificado bruna - Cópia\AOP2\obj\Debug\net5.0\AOP2.csproj.CoreCompileInputs.cache
+C:\Users\Jhulyo\Desktop\AOP2 modificado bruna - Cópia\AOP2\obj\Debug\net5.0\AOP2.dll
+C:\Users\Jhulyo\Desktop\AOP2 modificado bruna - Cópia\AOP2\obj\Debug\net5.0\ref\AOP2.dll
+C:\Users\Jhulyo\Desktop\AOP2 modificado bruna - Cópia\AOP2\obj\Debug\net5.0\AOP2.pdb
+C:\Users\Jhulyo\Desktop\AOP2 modificado bruna - Cópia\AOP2\obj\Debug\net5.0\AOP2.genruntimeconfig.cache
+C:\Users\Willm\Desktop\AOP2 modificado Jhulyo\AOP2\obj\Debug\net5.0\AOP2.csproj.AssemblyReference.cache
+C:\Users\Willm\Desktop\AOP2 modificado Jhulyo\AOP2\obj\Debug\net5.0\AOP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willm\Desktop\AOP2 modificado Jhulyo\AOP2\obj\Debug\net5.0\AOP2.AssemblyInfoInputs.cache
+C:\Users\Willm\Desktop\AOP2 modificado Jhulyo\AOP2\obj\Debug\net5.0\AOP2.AssemblyInfo.cs
+C:\Users\Willm\Desktop\AOP2 modificado Jhulyo\AOP2\obj\Debug\net5.0\AOP2.csproj.CoreCompileInputs.cache
+C:\Users\Willm\Desktop\AOP2 modificado Jhulyo\AOP2\obj\Debug\net5.0\AOP2.dll
+C:\Users\Willm\Desktop\AOP2 modificado Jhulyo\AOP2\obj\Debug\net5.0\refint\AOP2.dll
+C:\Users\Willm\Desktop\AOP2 modificado Jhulyo\AOP2\obj\Debug\net5.0\AOP2.pdb
+C:\Users\Willm\Desktop\AOP2 modificado Jhulyo\AOP2\bin\Debug\net5.0\AOP2.exe
+C:\Users\Willm\Desktop\AOP2 modificado Jhulyo\AOP2\bin\Debug\net5.0\AOP2.deps.json
+C:\Users\Willm\Desktop\AOP2 modificado Jhulyo\AOP2\bin\Debug\net5.0\AOP2.runtimeconfig.json
+C:\Users\Willm\Desktop\AOP2 modificado Jhulyo\AOP2\bin\Debug\net5.0\AOP2.runtimeconfig.dev.json
+C:\Users\Willm\Desktop\AOP2 modificado Jhulyo\AOP2\bin\Debug\net5.0\AOP2.dll
+C:\Users\Willm\Desktop\AOP2 modificado Jhulyo\AOP2\bin\Debug\net5.0\AOP2.pdb
+C:\Users\Willm\Desktop\AOP2 modificado Jhulyo\AOP2\obj\Debug\net5.0\AOP2.genruntimeconfig.cache
+C:\Users\Willm\Desktop\AOP2 modificado Jhulyo\AOP2\obj\Debug\net5.0\ref\AOP2.dll
+C:\Users\LENOVO\Desktop\pasta aop2\teste\AOP2 modificado Jhulyo\AOP2\obj\Debug\net5.0\AOP2.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\pasta aop2\teste\AOP2 modificado Jhulyo\AOP2\obj\Debug\net5.0\AOP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\pasta aop2\teste\AOP2 modificado Jhulyo\AOP2\obj\Debug\net5.0\AOP2.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\pasta aop2\teste\AOP2 modificado Jhulyo\AOP2\obj\Debug\net5.0\AOP2.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\pasta aop2\teste\AOP2 modificado Jhulyo\AOP2\obj\Debug\net5.0\AOP2.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\pasta aop2\teste\AOP2 modificado Jhulyo\AOP2\obj\Debug\net5.0\AOP2.dll
+C:\Users\LENOVO\Desktop\pasta aop2\teste\AOP2 modificado Jhulyo\AOP2\obj\Debug\net5.0\refint\AOP2.dll
+C:\Users\LENOVO\Desktop\pasta aop2\teste\AOP2 modificado Jhulyo\AOP2\obj\Debug\net5.0\AOP2.pdb
+C:\Users\LENOVO\Desktop\pasta aop2\teste\AOP2 modificado Jhulyo\AOP2\bin\Debug\net5.0\AOP2.exe
+C:\Users\LENOVO\Desktop\pasta aop2\teste\AOP2 modificado Jhulyo\AOP2\bin\Debug\net5.0\AOP2.deps.json
+C:\Users\LENOVO\Desktop\pasta aop2\teste\AOP2 modificado Jhulyo\AOP2\bin\Debug\net5.0\AOP2.runtimeconfig.json
+C:\Users\LENOVO\Desktop\pasta aop2\teste\AOP2 modificado Jhulyo\AOP2\bin\Debug\net5.0\AOP2.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\pasta aop2\teste\AOP2 modificado Jhulyo\AOP2\bin\Debug\net5.0\AOP2.dll
+C:\Users\LENOVO\Desktop\pasta aop2\teste\AOP2 modificado Jhulyo\AOP2\bin\Debug\net5.0\AOP2.pdb
+C:\Users\LENOVO\Desktop\pasta aop2\teste\AOP2 modificado Jhulyo\AOP2\obj\Debug\net5.0\AOP2.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\pasta aop2\teste\AOP2 modificado Jhulyo\AOP2\obj\Debug\net5.0\ref\AOP2.dll
+C:\Users\Willm\Desktop\AOP2 modificado ultimo\AOP2\bin\Debug\net5.0\AOP2.exe
+C:\Users\Willm\Desktop\AOP2 modificado ultimo\AOP2\bin\Debug\net5.0\AOP2.deps.json
+C:\Users\Willm\Desktop\AOP2 modificado ultimo\AOP2\bin\Debug\net5.0\AOP2.runtimeconfig.json
+C:\Users\Willm\Desktop\AOP2 modificado ultimo\AOP2\bin\Debug\net5.0\AOP2.runtimeconfig.dev.json
+C:\Users\Willm\Desktop\AOP2 modificado ultimo\AOP2\bin\Debug\net5.0\AOP2.dll
+C:\Users\Willm\Desktop\AOP2 modificado ultimo\AOP2\bin\Debug\net5.0\AOP2.pdb
+C:\Users\Willm\Desktop\AOP2 modificado ultimo\AOP2\obj\Debug\net5.0\AOP2.csproj.AssemblyReference.cache
+C:\Users\Willm\Desktop\AOP2 modificado ultimo\AOP2\obj\Debug\net5.0\AOP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willm\Desktop\AOP2 modificado ultimo\AOP2\obj\Debug\net5.0\AOP2.AssemblyInfoInputs.cache
+C:\Users\Willm\Desktop\AOP2 modificado ultimo\AOP2\obj\Debug\net5.0\AOP2.AssemblyInfo.cs
+C:\Users\Willm\Desktop\AOP2 modificado ultimo\AOP2\obj\Debug\net5.0\AOP2.csproj.CoreCompileInputs.cache
+C:\Users\Willm\Desktop\AOP2 modificado ultimo\AOP2\obj\Debug\net5.0\AOP2.dll
+C:\Users\Willm\Desktop\AOP2 modificado ultimo\AOP2\obj\Debug\net5.0\refint\AOP2.dll
+C:\Users\Willm\Desktop\AOP2 modificado ultimo\AOP2\obj\Debug\net5.0\AOP2.pdb
+C:\Users\Willm\Desktop\AOP2 modificado ultimo\AOP2\obj\Debug\net5.0\AOP2.genruntimeconfig.cache
+C:\Users\Willm\Desktop\AOP2 modificado ultimo\AOP2\obj\Debug\net5.0\ref\AOP2.dll
